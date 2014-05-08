@@ -1,0 +1,186 @@
+body {
+	background: #efefef;
+}
+
+.container {
+	max-width: 950px;
+}
+.top-content {
+	color: #a7a9ac;
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;
+	border: none;
+	box-shadow: 0px 0px 0px 0px;
+}
+
+.img-thumbnail {
+	background-color: #bcbec0;
+}
+
+.desc-trainer {
+	background: #0D0D0D;
+	opacity: 0.9;
+	margin-top: -9em;
+	min-height: 9em;
+	text-align: center;
+	margin-bottom: 0px;
+}
+.desc-trainer p {
+	color: rgb(255,255,255);
+	font-size:1.9em;
+	font-weight:bold;
+	margin-bottom:0px;
+}
+.desc-trainer .img-responsive {
+	display: inline;
+} 
+.traniner-contact {
+	text-align: center;
+	background: #161414;
+	color: #FFFFFF;
+	padding: 0.8em 0.3em;
+	font-size: 1.2em;
+}
+.traniner-contact .img-responsive {
+	display: inline-block;
+}
+.trainer-gallery {
+	
+}
+.trainer-gallery .img-responsive {
+	display: inline-block;
+}
+.personal_trainer_outline{
+	padding:0px;
+	margin-bottom:0.7em;
+}
+.personal_trainer_img{
+	border:2px solid #bcbec0;
+	width:100%;
+}
+.personal_left_padding{
+	padding-left:0px;
+}
+.personal_right_padding{
+	padding-right:0px;
+}
+.trainer_contact_outline{
+	padding:0 0.3em 0 0;
+}
+.trainer-gallery_outline{
+	padding:0 0 0 0.3em;
+}
+.trainer-gallery_img{
+	width:100%;
+}
+.gogi_iq_outline{
+	padding:0px;
+	margin:0.7em 0;
+}
+.gogi_iq{
+	background-image:url(../img/gogigroup.png);
+	background-repeat:no-repeat;
+	height:11.3em;
+	background-size:100% 100%;
+	border:2px solid #bcbec0;
+}
+.gogi_iq_text_outline{
+	margin:1em 0;
+}
+.gogi_iq_heading{
+	font-size:1.6em;
+	color:#FFF;
+	font-weight:bold;
+	text-transform:capitalize;
+	margin-top:1em;
+}
+.gogi_iq_para{
+	color:#FFF;
+	font-size:0.9em;
+	line-height:1.3em;
+}
+.middle_row{
+	margin:0 -0.4em;
+}
+.mobile_icon_outline{
+	padding:1.8em 0;
+	background-color:#161414;
+	border:2px solid #bcbec0;
+}
+.mobile_section_text{
+	margin-top:0.4em;
+	margin-bottom:0.2em;
+	font-size:1.8em;
+}
+.lbpt_logo_outline{
+	margin:0.8em 0;
+	padding:0;
+}
+.lbpt_logo_image{
+	width:100%;
+	border:2px solid #bcbec0;
+}
+.exercise_logo_outline{
+	padding:0px;
+}
+.icon_image{
+	width:100%;
+}
+.fitness_insti_outline{
+	padding:1.92em 0;
+	background-color:#161414;
+	border:2px solid #bcbec0;
+	text-align:center;
+}
+.exercise_pod_outline{
+	padding:3.2em 0;
+	margin-top:0.7em;
+}
+.exercise_pod_outline .img-responsive{
+	display: inline-block;
+}
+.connect_us_outline{
+	padding:1em 1.6em;
+	margin-top:0.7em;
+	margin-bottom:0.7em;
+	color:#fff;
+	text-align:left;
+}
+.connect_us_heading{
+	margin-bottom:0.3em;
+	margin-top:0.5em;
+	font-weight:bold;
+}
+.connect_us_para{
+	margin-bottom:0.6em;
+	line-height:1.2em;
+}
+.social_icon{
+	margin-bottom:0.6em;
+}
+.social_icon li{
+	list-style-type:none;
+	margin-right:0.5em;
+}
+.graph_chart{
+	background-color:#161414;
+	padding:2em 1em 1em;
+	color:#FFF;
+	border:2px solid #bcbec0;
+	text-align:center;
+}
+.graph_chart_img{
+	margin-bottom:0.8em;
+}
+.graph_chart p{
+	line-height:1.2em;
+	text-align:left;
+	margin-bottom:0px;
+}
+.right_bottom_img{
+	width:100%;
+	border:2px solid #bcbec0;
+}
+.right_bottom_section{
+	
+}
